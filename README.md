@@ -1,5 +1,9 @@
 # CAMELS-Chem_DIC_dataset
 
+This page includes the CAMELS-Chem-DIC dataset generated for work described in the following paper:
+
+Bryn Stewart, Wei Zhi, Kayalvizhi Sadayappan, Gary Sterle, Adrian Harpold, and Li Li. 2022. Soil CO2 controls short-term variation but climate regulates long-term mean of riverine inorganic carbon. Global Biogeochemical Cycles. https://doi.org/10.1029/2022GB007351
+
 The CAMELS-Chem dataset is developed by the Nevada Mountain Ecohydrology Lab (https://naes.unr.edu/harpold/) led by Adrian A. Harpold (@NV_Mtn_Ecohydro) at University of Neveda, Reno. It builds a stream chemistry database that supplements to the Catchment Attribute for Large Sample Studies (CAMELS) database (Addor et al., 2017; Newman et al., 2015).
 
 The CAMELS-Chem dataset compiles USGS water chemistry and instantaneous discharge from 1980 through 2014 in 589 headwater catchments. It includes common stream water chemistry related constituents (pH, water temperature, dissolved oxygen, Na, K, Ca, Mg, Al, Cl, NO3, SO4, Si, HCO3, organic nitrogen, total nitrogen, dissolved organic carbon, total organic carbon, and etc), as well as an overlapping set of annual wet deposition load from the National Atmospheric Deposition Program (Br, Ca, Cl, H, K, Mg, N, Na, NH4, NO3, SO4).
